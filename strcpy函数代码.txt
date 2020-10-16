@@ -1,4 +1,5 @@
-char* StrCpy(char* src)
+//这是一行注释
+char* StrCpy(char* src）
 {
 int len,i;
 int* new;
